@@ -1,0 +1,8 @@
+{
+  "name": "Mebel Dizayner",
+  "short_name": "MebelApp",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#11111b",
+  "theme_color": "#89b4fa"
+}
